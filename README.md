@@ -1,8 +1,7 @@
 # Ola_Analysis_SQL-PBi
+
+
 ## SQL---
-
-Sure! Here's the updated `README.md` file without the example SQL query section:
-
 ---
 
 # Ola Data Analysis Using SQL
